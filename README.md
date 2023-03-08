@@ -1,16 +1,20 @@
-### Hi there 👋
+Olá! 😊
+Sou Saulo Menezes. 
 
-<!--
-**Saulomenezes21/Saulomenezes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minha primeira formação foi em Medicina Veterinária  🐶
+mas sempre tive tive interesse pela área de tecnologia.
 
-Here are some ideas to get you started:
+Sendo assim, decidi iniciar minha caminhada tech com intuido de migração de profissão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fui muito atraido pela área de Front-end, mas tenho muito interesse em aprender sobre todas
+as áreas que envolvem o desenviol de um site/software.
+
+✨🖥️🥰
+
+<div> 
+  
+</div>
+
+
+
+
